@@ -1,7 +1,14 @@
 # Person-Re-ID-at-99.99-accuracy-Gun-Shot-Detection-Gun-detection-inside-a-bag-License-plate-tracking
+# important links 👇
+Gun_audio https://www.kaggle.com/datasets/emrahaydemr/gunshot-audio-dataset/download?datasetVersionNumber=1
+Gun_images https://www.kaggle.com/datasets/andrewmvd/handgun-detection/download?datasetVersionNumber=1
+License_plate https://www.kaggle.com/datasets/andrewmvd/car-plate-detection/download?datasetVersionNumber=1
+I have Used Yolov7 , openalpr, tensorflow,pytorch and many other exciting libraries for the project
+
+
 
 Project Description
-This project showcases a range of computer vision and audio processing tasks, including gun detection, license plate tracking, and gun audio classification. The provided code examples and explanations serve as a demonstration of these tasks.
+**This project showcases a range of computer vision and audio processing tasks, including gun detection, license plate tracking, and gun audio classification. The provided code examples and explanations serve as a demonstration of these tasks**.
 
 Table of Contents
 Task 1: Gun Audio Classification
